@@ -17,7 +17,7 @@ li a{
 #h2nav{
     float: left;
     margin-left: 120px;
-    font-size: 35px;'
+    font-size: 35px;
     display: flex;
 }
 body{
@@ -61,21 +61,20 @@ button{
 }
 .ghi{
     background-color: #d3d3d367;
-    padding: 78px 148px 70px 50px;
+    padding: 78px 148px 70px 50px;}
 
-
-.footer1{
-    text-align: center;
-    background-color: #d3d3d367;
-    padding: 50px;
-}
-.float_left{
+    #footer{
+        text-align: center;
+        background-color: #d3d3d367;
+        padding: 40px;
+    }
+    .float_left{
         float: left;
     }
-.float_right{
+    .float_right{
         float: right;
     }
-#SubmitBtn{
+    #SubmitBtn{
         color: white;
         padding: 14px 70px;
         background-color: dodgerblue;
@@ -84,13 +83,15 @@ button{
         font-weight: 800;
         font-size: 18px;
     }
-.subs{
+    .subs{
         padding: 15px;
         font-size: 30px;
-        font-weight: 700;
+        font-weight: 800;
     }
-    
-}
-input{
-    height: 30px;
-}
+    input{
+        font-size: 16px;
+        height: 44px;
+        width: 30%;
+    }
+    .CEDCOSS{
+        padding: 35px;}
