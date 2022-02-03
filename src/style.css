@@ -1,0 +1,24 @@
+#head{
+    padding: 40px;
+}
+
+#navlist{
+    list-style-type: none;
+}
+li{
+    float: left;
+}
+nav{
+    float:right
+}
+li a{
+    padding: 35px;
+}
+h2{
+    float: left;
+    margin-left: 120px;
+    font-size: 33px;
+}
+body{
+    margin-top: 40px;
+}
