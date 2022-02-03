@@ -67,6 +67,7 @@ button{
         text-align: center;
         background-color: #d3d3d367;
         padding: 40px;
+        margin: 0px 40px;
     }
     .float_left{
         float: left;
@@ -95,3 +96,16 @@ button{
     }
     .CEDCOSS{
         padding: 35px;}
+
+@media screen and (max-width:800px){
+    .abc{
+        flex-direction: column;
+    }
+    .kk{
+        flex-direction: column;
+    }
+  #header,#h2nav {
+    flex-direction: column;
+    margin-left: 0px;
+}
+}
