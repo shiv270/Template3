@@ -1,4 +1,4 @@
-#head{
+#header{
     padding: 40px;
 }
 
@@ -14,11 +14,51 @@ nav{
 li a{
     padding: 35px;
 }
-h2{
+#h2nav{
     float: left;
     margin-left: 120px;
-    font-size: 33px;
+    font-size: 35px;'
+    display: flex;
 }
 body{
-    margin-top: 40px;
+    margin-top: 15px;
+    
 }
+#main{
+    margin:5% 3% 5% 5%;
+}
+#h2main{
+    font-size: 30px;
+}
+#two{
+    width: 33%;
+}
+#one{
+    padding: 40px;
+    background-color: #9e9e9e33;
+}
+button{
+    padding: 9px;
+}
+.mainpara{margin-top: -10px;}
+
+.abc{
+    display: flex;
+    place-content: center;
+}
+.a_font{
+    color: black;
+}
+.def{
+    float: left;
+    width: 25%;
+    display: flex;
+    flex-wrap: nowrap; 
+    margin: 30px;
+    display: block;
+    text-align: center;
+    line-height: 1.4;
+}
+.ghi{
+    background-color: #d3d3d367;
+    padding: 78px 148px 70px 50px;
